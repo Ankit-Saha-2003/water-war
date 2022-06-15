@@ -4,7 +4,7 @@ grv = 0.3;
 walksp = 3;
 hsp = walksp;
 
-hp = 10;
+hp = 25;
 flash = 0;
 hitfrom = 0;
 hasweapon = true;
