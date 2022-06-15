@@ -1,4 +1,4 @@
-# Water-War
+# Water War
  
 A game where you play as a character who aims to become the greatest water gun fighter of all time. Help him achieve his goal.
 
