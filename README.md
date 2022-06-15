@@ -1,6 +1,6 @@
 # Water War
  
-A game where you play as a character who aims to become the greatest water gun fighter of all time. Help him achieve his goal.
+A game where you play as a character who aims to win the water gun fight organized on a beach. Help him achieve his goal.
 
 A submission for the Glitch 2022 Summer Game Jam.
 
